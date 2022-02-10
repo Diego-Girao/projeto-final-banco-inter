@@ -24,13 +24,14 @@
 
 ### **💻 - Techs utilizadas: Nodejs, Insomnia(API), Beekeeper Studio(BD - SQLite3), HTML 5, Javascript, Typescript e alguns conceitos de estilização e design.**
 
-| <img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75"> | <img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75"> | <img src = "https://docs.beekeeperstudio.io/bk-logo-yellow-icon.svg" title="Beekeeper Studio" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" width="122" height="75"> | <img src = "https://www.sqlite.org/images/sqlite370_banner.gif" title="SQLite" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" width="122" height="75"> |
-|---|---|---|---|---|---|---|
+| <img src = "https://nodejs.org/static/images/logo.svg" title="Nodejs" width="122" height="75"> | <img src = "https://insomnia.rest/images/insomnia-logo.svg" title="Insomnia" width="122" height="75"> | <img src = "https://docs.beekeeperstudio.io/bk-logo-yellow-icon.svg" title="Beekeeper Studio" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Javascript" width="122" height="75"> | <img src = "https://www.sqlite.org/images/sqlite370_banner.gif" title="SQLite" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Typescript" width="122" height="75"> | <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="122" height="75"> | 
+|---|---|---|---|---|---|---|---|
 
 
 <span align="center">
   
 [![Type Script](https://img.shields.io/badge/Language-TypeScript-blue.svg)]()
+[![REST](https://img.shields.io/badge/API-REST-green.svg)]()
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
   
 </span>
