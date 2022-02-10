@@ -20,7 +20,7 @@
 
 </h4>
 
-
+<h3> ✅ Meus agradecimentos a Brilhante Instrutora Nathally Souza, pelas aulas com didática incrível, fork realizado com sucesso 👏👏</h3>
 
 ### **💻 - Techs utilizadas: Nodejs, Insomnia(API), Beekeeper Studio(BD - SQLite3), HTML 5, Javascript, Typescript e alguns conceitos de estilização e design.**
 
