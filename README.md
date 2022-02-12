@@ -10,8 +10,8 @@
 
  <h3>📋 Descrição: O Projeto era a realização da integração do Frontend com Backend{ API Rest, TS e Nodejs } realizado de uma forma que não fosse complicada mas que fosse o mais funcional possível.</h3>
 
-<h4>
-  
+## Para usufruir deste projeto
+<h4> 
 - Realizar o clone, fork ou download do projeto para a sua máquina.<br />
 <!-- BACKEND -->
 - Entrar na pasta do **Backend** e iniciar o projeto utilizando o comando `yarn run dev`<br />
