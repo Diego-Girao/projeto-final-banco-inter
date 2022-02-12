@@ -8,7 +8,7 @@
 <h1>Projeto Final - Bootcamp DIO._ - Banco Inter.</h1> 
 </span>
 
- <h3>📋 Descrição: O Projeto era a realização da integração do Frontend com Backend, realizado de uma forma que não fosse complicada mas que fosse o mais funcional possível.</h3>
+ <h3>📋 Descrição: O Projeto era a realização da integração do Frontend com Backend{ API Rest, TS e Nodejs } realizado de uma forma que não fosse complicada mas que fosse o mais funcional possível.</h3>
 
 <h4>
   
